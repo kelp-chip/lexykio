@@ -1,3 +1,5 @@
+## Hello, I'm Lexy! <img src="https://user-images.githubusercontent.com/25832984/113882322-3297f580-978b-11eb-866b-50f740dd9f0f.gif" width=30px align=left></img>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lexykio&show_icons=true&theme=react" alt="lexykio" />
 
 
 
