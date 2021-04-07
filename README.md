@@ -1,6 +1,8 @@
 ## Hello, I'm Lexy!<img src="https://user-images.githubusercontent.com/25832984/113882322-3297f580-978b-11eb-866b-50f740dd9f0f.gif" width=100px align=left></img>
 - 🔭 I’m currently working on [trove](https://github.com/lexykio/trove) & [cat diary](https://github.com/lexykio/cat-diary)
-- 🌱 I’m currently learning NextJS
+- 🌱 I’m currently learning NextJS & Typscript
+
+
 <!--
 **lexykio/lexykio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
