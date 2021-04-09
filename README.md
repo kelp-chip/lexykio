@@ -16,7 +16,6 @@
 <img src="./stack/mysql.svg" height="20px"> 
 <img src="./stack/sequelize.svg" height="20px"> 
 <img src="./stack/mongo.svg" height="22px">
-
 &nbsp;&nbsp;
 <img src="./stack/visual-studio-code.svg" height="20px">
 <img src="./stack/npm.svg" height="15px">
