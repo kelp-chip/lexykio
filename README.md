@@ -10,7 +10,7 @@
 <img src="./stack/html-5.svg" height="22px">
 <img src="./stack/css-3.svg" height="22px">
 <img src="./stack/python.svg" height="20px">
-<img src="./stack/figma.svg" height="20px">
+<img src="./stack/figma.svg" height="18px">
 &nbsp;&nbsp;
 <img src="./stack/nodejs-icon.svg" height="20px">
 <img src="./stack/mysql.svg" height="20px"> 
