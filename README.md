@@ -2,7 +2,9 @@
 
 - 🔭 I’m currently working on [trove](https://github.com/lexykio/trove) & [cat diaries](https://github.com/lexykio/cat-diaries)
 - 🌱 I’m currently learning NextJS & Typescript
-  <img src="./stack/javascript.svg" width="30px">
+  </br>
+  <img src="./stack/javascript.svg" width="15px">
+  <img src="./stack/nodejs.svg" width="15px">
 
 <!--
 **lexykio/lexykio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
