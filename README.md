@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on [trove](https://github.com/lexykio/trove) & [cat diaries](https://github.com/lexykio/cat-diaries)
 - 🌱 I’m currently learning NextJS & Typescript
 
+##
 <p>
 <img src="./stack/javascript.svg" height="20px">
 <img src="./stack/react.svg" height="20px">
