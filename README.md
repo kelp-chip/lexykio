@@ -3,6 +3,11 @@
 - 🔭 I’m currently working on [trove](https://github.com/lexykio/trove) & [cat diaries](https://github.com/lexykio/cat-diaries)
 - 🌱 I’m currently learning NextJS & Typescript
 
+
+<!--
+**lexykio/lexykio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+
 ##
 <p>
 <img src="./stack/javascript.svg" height="20px">
@@ -26,10 +31,6 @@
 <img src="./stack/aws-ec2.svg" height="20px">
 <img src="./stack/aws-rds.svg" height="20px">
 </p>
-
-<!--
-**lexykio/lexykio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lexykio&show_icons=true&theme=react" alt="lexykio" />
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/lexyk/)
