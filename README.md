@@ -1,6 +1,6 @@
 ## Hi there, I'm Lexy!<img src="https://user-images.githubusercontent.com/25832984/113882322-3297f580-978b-11eb-866b-50f740dd9f0f.gif" width=100px align=left></img>
 
-- 🔭 I’m currently working on [trove](https://github.com/lexykio/trove) & [cat diaries](https://github.com/lexykio/cat-diaries)
+- 🔭 I’m currently working on [tabletop tracker](https://github.com/lexykio/tabletop-tracker) & [cat diaries](https://github.com/lexykio/cat-diaries)
 - 🌱 I’m currently learning NextJS & Typescript
 
 
