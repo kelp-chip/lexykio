@@ -1,5 +1,8 @@
 ## Hi there, I'm Lexy!<img src="https://user-images.githubusercontent.com/25832984/113882322-3297f580-978b-11eb-866b-50f740dd9f0f.gif" width=100px align=left></img>
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="lexykio" />
+
+
 - 🌱 I’m currently learning Typescript
 - - 🔭 I’m currently working on [kanboro](https://github.com/lexykio/kanboro)
 
