@@ -1,9 +1,8 @@
 ## Hi, I'm Lexy!
+- check out my [portfolio website](https://lexyk.io)
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/lexyk/)
 - 🌱 I’m currently learning Typescript
 -  🔭 I’m currently working on [kanboro](https://github.com/lexykio/kanboro) and [scare trigger](https://github.com/lexykio/scare-trigger)
-
-check out my [portfolio website](https://lexyk.io)
 ##
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lexykio&show_icons=true&theme=gotham" alt="lexykio" />
 
