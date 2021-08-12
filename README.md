@@ -1,7 +1,9 @@
-## Hi, I'm Lexy!<img src="https://user-images.githubusercontent.com/25832984/113882322-3297f580-978b-11eb-866b-50f740dd9f0f.gif" width=100px align=left></img>
-
+## Hi, I'm Lexy!
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/lexyk/)
 - 🌱 I’m currently learning Typescript
--  🔭 I’m currently working on [kanboro](https://github.com/lexykio/kanboro)
+-  🔭 I’m currently working on [kanboro](https://github.com/lexykio/kanboro) and [scare trigger](https://github.com/lexykio/scare-trigger)
+
+check out my [portfolio website](https://lexyk.io)
 ##
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lexykio&show_icons=true&theme=gotham" alt="lexykio" />
 
@@ -13,6 +15,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [tabletop tracker](https://github.com/lexykio/tabletop-tracker) & [cat diaries](https://github.com/lexykio/cat-diaries)
 
 ##
+<img src="https://user-images.githubusercontent.com/25832984/113882322-3297f580-978b-11eb-866b-50f740dd9f0f.gif" width=100px align=left></img>
 <p>
 <img src="./stack/javascript.svg" height="20px">
 <img src="./stack/react.svg" height="20px">
