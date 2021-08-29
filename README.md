@@ -1,5 +1,5 @@
 ## Hi, I'm Lexy!
-- check out my [portfolio website](https://lexyk.io)
+- check out my [website](https://lexyk.io)
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/lexyk/)
 - 🌱 I’m currently learning Typescript
 -  🔭 I’m currently working on [kanboro](https://github.com/lexykio/kanboro) and [scare trigger](https://github.com/lexykio/scare-trigger)
