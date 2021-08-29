@@ -1,4 +1,4 @@
-## Hi, I'm Lexy!
+## Hi, I'm Lexy! (She/Her)
 - check out my [website](https://lexyk.io)
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/lexyk/)
 - 🌱 I’m currently learning Typescript
